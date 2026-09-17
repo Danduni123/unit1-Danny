@@ -54,6 +54,3 @@ def triangle():
     t.forward(90)
 triangle()
 turtle.done() """
-
-
-turtle.done() """
