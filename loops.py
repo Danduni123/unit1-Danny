@@ -13,7 +13,7 @@ t.speed(100)
 square() """
 
 
-length = 5
+""" length = 5
 
 for i in range(60):
     for i in range(4):
@@ -22,4 +22,28 @@ for i in range(60):
     t.right(5)
     length += 5
 
-turtle.done()
+turtle.done() """
+
+""" length = 5
+
+for i in range(60):
+    for i in range(4):
+        t.forward(length)
+        t.right(90)
+    t.right(5)
+    length += 5
+"""
+
+length = 5
+
+for i in range(60):
+    for i in range(5):
+        t.forward(length)
+        t.right(144)
+    t.right(5)
+    length += 5
+
+
+
+
+turtle.done() 
